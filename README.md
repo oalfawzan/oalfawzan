@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=5&multiline=true&random=false&width=435&lines=Osama+Alfawzan;Data+Science+%7C+Machine+Learning)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=5&multiline=true&random=false&width=435&height=70&lines=Osama+Alfawzan;Data+Science+%7C+Machine+Learning)](https://git.io/typing-svg)
 
 👋 Welcome to my GitHub profile! I recently graduated with a Masters in Data Science from RMIT University. Data science is not just a career path for me; it's a passion. Delving into datasets, discovering insights, and building models to solve real-world problems excites me!
 ## 🎓 Education
