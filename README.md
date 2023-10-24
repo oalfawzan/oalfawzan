@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I recently graduated with a Masters in Data Scienc
 - Open-source projects related to machine learning and data analytics
 
 ## 📫 How to Reach Me
-- Email: [osama.f6@outlook.sa.com](mailto:osama.f6@outlook.sa.com)
+- Email: [osama.f6@outlook.sa](mailto:osama.f6@outlook.sa)
 - LinkedIn: [https://www.linkedin.com/in/osama-alfawzan-778260126/](https://www.linkedin.com/in/osama-alfawzan-778260126/)
 
 ---
