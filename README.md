@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Osama!
 Welcome to my GitHub profile! I recently graduated with a Masters in Data Science from RMIT University. Data science is not just a career path for me; it's a passion. Delving into datasets, discovering insights, and building models to solve real-world problems excites me!
 ## 🎓 Education
-- **Masters in Data Science** - RMIT University
-- **Bachelors in Information Technology** - University of Tabuk
+- **Master of Data Science** - RMIT University
+- **Bachelor of Information Technology** - University of Tabuk
 
 ## 👀 Interests
 - Data Analysis and Visualization
