@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4086E9&multiline=true&repeat=false&random=false&width=435&lines=Osama+Alfawzan;Data+Science+%7C+Machine+Learning)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=5&multiline=true&random=false&width=435&lines=Osama+Alfawzan;Data+Science+%7C+Machine+Learning)](https://git.io/typing-svg)
 
 
 
