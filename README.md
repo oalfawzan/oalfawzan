@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Osama!
+- 👋 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Osama+Alfawzan;Data+Science+%7C+Machine+Learning)](https://git.io/typing-svg)
 Welcome to my GitHub profile! I recently graduated with a Masters in Data Science from RMIT University. Data science is not just a career path for me; it's a passion. Delving into datasets, discovering insights, and building models to solve real-world problems excites me!
 ## 🎓 Education
 - **Master of Data Science** - RMIT University
