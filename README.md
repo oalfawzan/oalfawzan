@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I recently graduated with a Masters in Data Scienc
 
 ---
 
-Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on a project or discuss data science topics!
+Feel free to explore my portfolio for my projects and don't hesitate to reach out if you'd like to collaborate on a project or discuss data science topics!
 
 <!---
 oalfawzan/oalfawzan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
