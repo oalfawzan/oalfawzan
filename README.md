@@ -2,17 +2,17 @@
 Welcome to my GitHub profile! I recently graduated with a Masters in Data Science from RMIT University. Data science is not just a career path for me; it's a passion. Delving into datasets, discovering insights, and building models to solve real-world problems excites me!
 ## 🎓 Education
 - **Masters in Data Science** - RMIT University
+- **Bachelors in Information Technology** - University of Tabuk
 
 ## 👀 Interests
 - Data Analysis and Visualization
-- Machine Learning Models
-- Big Data Solutions
-- Deep Learning and its applications
+- Machine Learning
+- Big Data Processing
+- Cloud Computing
 
 ## 🌱 Currently Learning
-- Advanced techniques in deep learning
+- Advanced techniques in data augmentation
 - Optimization methods for machine learning models
-- Scalable data processing techniques
 
 ## 💞️ Looking to Collaborate On
 - Data science projects with real-world applications
