@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1500&multiline=true&random=false&width=435&height=70&lines=Osama+Alfawzan;Data+Science+%7C+Machine+Learning)](https://git.io/typing-svg)
 
-👋 Welcome to my GitHub profile! I recently graduated with a Masters in Data Science from RMIT University. Data science is not just a career path for me; it's a passion. Delving into datasets, discovering insights, and building models to solve real-world problems excites me!
+👋 Welcome to my GitHub profile! I recently graduated with a Masters in Data Science from RMIT University. Feel free to explore my portfolio for my projects and don't hesitate to reach out if you'd like to collaborate on a project or discuss data science topics!
 ## 🎓 Education
 - **Master of Data Science** - RMIT University
 - **Bachelor of Information Technology** - University of Tabuk
@@ -24,10 +24,3 @@
 - LinkedIn: [https://www.linkedin.com/in/osama-alfawzan-778260126/](https://www.linkedin.com/in/osama-alfawzan-778260126/)
 
 ---
-
-Feel free to explore my portfolio for my projects and don't hesitate to reach out if you'd like to collaborate on a project or discuss data science topics!
-
-<!---
-oalfawzan/oalfawzan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
